@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Thank You | The Unknown</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin:0;
+  font-family:Arial, Helvetica, sans-serif;
+  background:radial-gradient(circle at top,#0e1526,#070b14);
+  color:white;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  height:100vh;
+}
+
+.box {
+  background:#0e1526;
+  border:1px solid #1b4f72;
+  padding:50px;
+  border-radius:16px;
+  text-align:center;
+}
+
+.logo {
+  font-size:42px;
+  color:#4fb6ff;
+  letter-spacing:3px;
+}
+
+.btn {
+  margin-top:30px;
+  display:inline-block;
+  padding:14px 30px;
+  background:#4fb6ff;
+  color:black;
+  text-decoration:none;
+  font-weight:bold;
+  border-radius:8px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+  <div class="logo">THE UNKNOWN</div>
+  <h1>Thank You for Your Order</h1>
+  <p>Your support fuels the grind.</p>
+  <a href="index.html" class="btn">Return to Home</a>
+</div>
+
+</body>
+</html>
